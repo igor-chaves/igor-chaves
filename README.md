@@ -14,4 +14,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=igor-chaves&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-chaves&layout=compact)](https://github.com/igor-chaves/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-chaves&layout=compact)
