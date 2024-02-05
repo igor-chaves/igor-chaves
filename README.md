@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front End Developer from 🇧🇷 Brazil 🇧🇷</h3>
 <p align="center">-with roots in Italy 🇮🇹 🤌🏻-</p>
 <br><br>
-- 🌱 I’m currently learning <b>JS</b> and <b>React</b>
+- 🌱 I’m currently working with <b>JS</b> and <b>React</b>
 
 - 📫 How to reach me **ichaves@live.com**
 
