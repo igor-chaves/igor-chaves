@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I am Igor Chaves Donegá</h1>
-<h3 align="center">A passionate Front End Developer from 🇧🇷 Brazil 🇧🇷</h3>
+<h3 align="center">Front End Developer from 🇧🇷 Brazil 🇧🇷</h3>
 <p align="center">-with roots in Italy 🇮🇹 🤌🏻-</p>
 <br><br>
 - 🌱 I’m currently working with <b>JS</b> and <b>React</b>
