@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋🏻, I am Igor Chaves Donegá</h1>
-<h3 align="center">Front End Developer from 🇧🇷 Brazil 🇧🇷</h3>
-<p align="center">- living in Tokyo 🎌 -</p>
+<h1 align="center">Igor Chaves Donegá</h1>
+<h3 align="center">Front End Developer from Brazil living in Tokyo 🇧🇷 🎌</h3>
+<p align="center">Contact: ichaves@live.com</p>
+
 <br><br>
 
-- I’m currently working with <b>JS</b> and <b>React</b>
-- 📫 How to reach me **ichaves@live.com**
+#### Currently working with:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Also contact me on:
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/5FTYGwIpal)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/igor_chaves)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-chaves/)
 
 
-#### I already worked with:
+#### Experienced with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,5 +28,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igor-chaves&show_icons=true&locale=en&layout=compact" alt="igor-chaves" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igor-chaves&show_icons=true&locale=en" alt="igor-chaves" /></p>
